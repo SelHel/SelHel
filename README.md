@@ -1,4 +1,4 @@
-### Hi, I'm Selim 👋
+### Hi 👋, my name is Selim and I'm a french web developer who is passionate about what he does !
 
 <!--
 **SelHel/SelHel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
